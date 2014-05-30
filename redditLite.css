@@ -1,0 +1,40 @@
+a.title {
+	color: #1462c1 !important;
+}
+
+a:visited.title {
+	color: #999 !important;
+}
+
+a:hover.title {
+	color: #ff4500 !important;
+}
+
+a:active.title {
+	color: #000 !important;
+}
+
+.link {
+	margin: 0;
+	border-bottom: 1px solid #ddd;
+	padding: 8px 0;
+}
+
+.comment .child {
+	border-left: 1px dotted #808080;
+}
+
+.last-clicked {
+	border-top: 0;
+	border-left: 0;
+	border-right: 0;
+}
+
+div.md p {
+	line-height: 1.6em;
+	margin-bottom: 1em;
+}
+
+.link .usertext .md {
+	padding: 0 1em;
+}
