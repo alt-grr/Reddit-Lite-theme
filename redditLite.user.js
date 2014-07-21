@@ -3,6 +3,7 @@
 // @namespace   reddit.com
 // @description Reddit theme.
 // @version     1.0.0
+// @grant       GM_addStyle
 // @match       *://*.reddit.com/*
 // @run-at      document-start
 // ==/UserScript==
